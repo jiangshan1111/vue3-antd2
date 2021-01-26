@@ -41,13 +41,13 @@
                   <router-link to="/Home">江山</router-link>
               </a-menu-item>
               <a-menu-item key="2">
-                  <router-link to="/Home1">江山</router-link>
+                  <router-link to="/Home1">江山2</router-link>
               </a-menu-item>
               <a-menu-item key="3">
-                  <router-link to="/Home2">江山</router-link>
+                  <router-link to="/Home2">江山3</router-link>
               </a-menu-item>
               <a-menu-item key="4">
-                  <router-link to="/Home3">江山</router-link>
+                  <router-link to="/Home3">江山4</router-link>
               </a-menu-item>
             </a-sub-menu>
           </a-menu>
